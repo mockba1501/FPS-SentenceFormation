@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PictureManager : MonoBehaviour
+public class Picture : MonoBehaviour
 {
     public int GetPictureId(PictureScriptableObject picture)
     {

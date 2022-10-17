@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class WordManager : MonoBehaviour
+public class Item : MonoBehaviour
 {
     public void SetItemWeight(ItemScriptableObject item)
     {
@@ -34,7 +34,7 @@ public class WordManager : MonoBehaviour
         return item.word;
     }
 
-    public int GetWordLength(ItemScriptableObject item)
+    public int GetItemWordLength(ItemScriptableObject item)
     {
         return item.word.Length;
     }
