@@ -9,10 +9,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8ea8e2ce68c109742a7263992fdef8fb, type: 3}
-  m_Name: InventorySlot7
+  m_Script: {fileID: 11500000, guid: 5a76982e6aa0a9942a394bc3c3d2b63a, type: 3}
+  m_Name: Item16
   m_EditorClassIdentifier: 
-  inventorySlotId: 7
-  itemInInventorySlot: {fileID: 11400000, guid: 4f858233c3a612d489ee54ce1e32d01c,
-    type: 2}
-  isOccupied: 0
+  itemId: 16
+  itemName: 
+  itemObject: {fileID: 0}
+  itemSprite: {fileID: 0}
+  word: 
+  isIncorrectWord: 0
+  weight: 0

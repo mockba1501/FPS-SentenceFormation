@@ -9,9 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: 8ea8e2ce68c109742a7263992fdef8fb, type: 3}
   m_Name: InventorySlot12
-  m_EditorClassIdentifier: Assembly-CSharp::InventorySlotScriptableObject
+  m_EditorClassIdentifier: 
   inventorySlotId: 12
-  itemInInventorySlot: {fileID: 0}
+  itemInInventorySlot: {fileID: 11400000, guid: 322a0f58bfde77a4a9daa92756bcd316,
+    type: 2}
   isOccupied: 0

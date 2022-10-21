@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Item1
   m_EditorClassIdentifier: 
   itemId: 1
+  itemName: Test
   itemObject: {fileID: 0}
   itemSprite: {fileID: 0}
   word: The

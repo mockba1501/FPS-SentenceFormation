@@ -4,6 +4,11 @@ using UnityEngine;
 
 public class Item : MonoBehaviour
 {
+    public ItemScriptableObject GetItem(ItemScriptableObject item)
+    {
+        return item;
+    }
+
     public void SetItemWeight(ItemScriptableObject item)
     {
         item.weight = item.word.Length;

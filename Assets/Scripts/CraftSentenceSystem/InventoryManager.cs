@@ -6,5 +6,15 @@ using TMPro;
 
 public class InventoryManager : Inventory
 {
+    public InventorySlot inventorySlot;
 
+    public void Start()
+    {
+        
+    }
+
+    public void Update()
+    {
+
+    }
 }
