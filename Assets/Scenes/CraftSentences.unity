@@ -330,7 +330,7 @@ GameObject:
   - component: {fileID: 198937707}
   - component: {fileID: 198937709}
   m_Layer: 5
-  m_Name: ItemSlotPane6
+  m_Name: ItemSlotPanel6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -710,7 +710,7 @@ GameObject:
   - component: {fileID: 444653332}
   - component: {fileID: 444653334}
   m_Layer: 5
-  m_Name: ItemSlotPane12
+  m_Name: ItemSlotPanel12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -800,7 +800,7 @@ GameObject:
   - component: {fileID: 562271659}
   - component: {fileID: 562271661}
   m_Layer: 5
-  m_Name: ItemSlotPane15
+  m_Name: ItemSlotPanel15
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -968,7 +968,7 @@ GameObject:
   - component: {fileID: 607988661}
   - component: {fileID: 607988663}
   m_Layer: 5
-  m_Name: ItemSlotPane8
+  m_Name: ItemSlotPanel8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1058,7 +1058,7 @@ GameObject:
   - component: {fileID: 655568696}
   - component: {fileID: 655568698}
   m_Layer: 5
-  m_Name: ItemSlotPane11
+  m_Name: ItemSlotPanel11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1148,7 +1148,7 @@ GameObject:
   - component: {fileID: 794483150}
   - component: {fileID: 794483152}
   m_Layer: 5
-  m_Name: ItemSlotPane7
+  m_Name: ItemSlotPanel7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1450,7 +1450,7 @@ GameObject:
   - component: {fileID: 1116558263}
   - component: {fileID: 1116558265}
   m_Layer: 5
-  m_Name: ItemSlotPane2
+  m_Name: ItemSlotPanel2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1540,7 +1540,7 @@ GameObject:
   - component: {fileID: 1145975568}
   - component: {fileID: 1145975570}
   m_Layer: 5
-  m_Name: ItemSlotPane5
+  m_Name: ItemSlotPanel5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1752,7 +1752,7 @@ GameObject:
   - component: {fileID: 1171258639}
   - component: {fileID: 1171258641}
   m_Layer: 5
-  m_Name: ItemSlotPane13
+  m_Name: ItemSlotPanel13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1918,7 +1918,7 @@ GameObject:
   - component: {fileID: 1213612150}
   - component: {fileID: 1213612152}
   m_Layer: 5
-  m_Name: ItemSlotPane4
+  m_Name: ItemSlotPanel4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2382,7 +2382,7 @@ GameObject:
   - component: {fileID: 1411541434}
   - component: {fileID: 1411541436}
   m_Layer: 5
-  m_Name: ItemSlotPane10
+  m_Name: ItemSlotPanel10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2683,7 +2683,7 @@ GameObject:
   - component: {fileID: 1480945918}
   - component: {fileID: 1480945920}
   m_Layer: 5
-  m_Name: ItemSlotPane14
+  m_Name: ItemSlotPanel14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2863,7 +2863,7 @@ GameObject:
   - component: {fileID: 1505806862}
   - component: {fileID: 1505806864}
   m_Layer: 5
-  m_Name: ItemSlotPane16
+  m_Name: ItemSlotPanel16
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3175,7 +3175,7 @@ GameObject:
   - component: {fileID: 1804658490}
   - component: {fileID: 1804658492}
   m_Layer: 5
-  m_Name: ItemSlotPane3
+  m_Name: ItemSlotPanel3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3464,7 +3464,7 @@ GameObject:
   - component: {fileID: 1858064806}
   - component: {fileID: 1858064808}
   m_Layer: 5
-  m_Name: ItemSlotPane9
+  m_Name: ItemSlotPanel9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
