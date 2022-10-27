@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: InventorySlot16
   m_EditorClassIdentifier: 
   inventorySlotId: 16
-  itemInInventorySlot: {fileID: 0}
+  itemInInventorySlot: {fileID: 11400000, guid: 398530e83d963a543bdcf76eb5b7a160,
+    type: 2}
   isOccupied: 0

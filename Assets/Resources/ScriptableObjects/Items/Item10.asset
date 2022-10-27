@@ -15,7 +15,7 @@ MonoBehaviour:
   itemId: 10
   itemName: 
   itemObject: {fileID: 0}
-  itemSprite: {fileID: 0}
+  itemSprite: {fileID: 21300000, guid: e8ee6ee5c0965c9459ee773efe7ef134, type: 3}
   word: is
   isIncorrectWord: 0
   isInInventory: 0
