@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: CraftDeckSlot9
   m_EditorClassIdentifier: 
   craftDeckSlotId: 9
-  itemInCraftDeckSlot: {fileID: 0}
+  itemInCraftDeckSlot: {fileID: 11400000, guid: b53aeaba4fd2f0e498f7a8367c1394c1,
+    type: 2}
   isOccupied: 0

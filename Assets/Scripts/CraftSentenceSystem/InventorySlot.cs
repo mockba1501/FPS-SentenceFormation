@@ -15,7 +15,7 @@ public class InventorySlot : Inventory
     {
         if (inventorySlotSO.itemInInventorySlot) 
         {
-            Debug.Log(inventorySlotSO.itemInInventorySlot.itemId); // Just a test to show itemID of a item contended in inventory slots. 
+            Debug.Log("InventorySlotID: " + inventorySlotSO.inventorySlotId  + "\n" + "Item in InventorySlot: " + inventorySlotSO.itemInInventorySlot.itemId); // Just a test to show itemID of a item contended in inventory slot. 
         }
     }
 }

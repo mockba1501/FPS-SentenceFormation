@@ -9,10 +9,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f913b6ee35f326447b473db5983fc6a2, type: 3}
-  m_Name: CraftDeckSlot4
+  m_Script: {fileID: 11500000, guid: 5a76982e6aa0a9942a394bc3c3d2b63a, type: 3}
+  m_Name: Item23
   m_EditorClassIdentifier: 
-  craftDeckSlotId: 4
-  itemInCraftDeckSlot: {fileID: 11400000, guid: 6559369eb58ee1647a9245c1c9d186ba,
-    type: 2}
-  isOccupied: 0
+  itemId: 23
+  itemName: 
+  itemObject: {fileID: 0}
+  itemSprite: {fileID: 0}
+  word: 
+  isIncorrectWord: 0
+  weight: 0

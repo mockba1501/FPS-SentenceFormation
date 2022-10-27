@@ -134,6 +134,7 @@ GameObject:
   - component: {fileID: 9909817}
   - component: {fileID: 9909819}
   - component: {fileID: 9909818}
+  - component: {fileID: 9909820}
   m_Layer: 5
   m_Name: WordSlotPanel4
   m_TagString: Untagged
@@ -199,6 +200,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9909816}
   m_CullTransparentMesh: 1
+--- !u!114 &9909820
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9909816}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 771914138bc63c2499d946193b4cc04f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  craftDeckSlotSO: {fileID: 11400000, guid: f8d2b05f3c2d6e74ea68d1fbf78f68a9, type: 2}
 --- !u!1 &87313131
 GameObject:
   m_ObjectHideFlags: 0
@@ -632,6 +646,7 @@ GameObject:
   - component: {fileID: 304416486}
   - component: {fileID: 304416488}
   - component: {fileID: 304416487}
+  - component: {fileID: 304416489}
   m_Layer: 5
   m_Name: WordSlotPanel9
   m_TagString: Untagged
@@ -697,6 +712,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 304416485}
   m_CullTransparentMesh: 1
+--- !u!114 &304416489
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 304416485}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 771914138bc63c2499d946193b4cc04f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  craftDeckSlotSO: {fileID: 11400000, guid: 372df6861dd4e6b41bdeea139c485a51, type: 2}
 --- !u!1 &444653330
 GameObject:
   m_ObjectHideFlags: 0
@@ -1840,6 +1868,7 @@ GameObject:
   - component: {fileID: 1207399836}
   - component: {fileID: 1207399838}
   - component: {fileID: 1207399837}
+  - component: {fileID: 1207399839}
   m_Layer: 5
   m_Name: WordSlotPanel5
   m_TagString: Untagged
@@ -1905,6 +1934,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1207399835}
   m_CullTransparentMesh: 1
+--- !u!114 &1207399839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1207399835}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 771914138bc63c2499d946193b4cc04f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  craftDeckSlotSO: {fileID: 11400000, guid: 0aefdcfbead9b0a44a8ce801d3f3f84a, type: 2}
 --- !u!1 &1213612148
 GameObject:
   m_ObjectHideFlags: 0
@@ -2006,6 +2048,7 @@ GameObject:
   - component: {fileID: 1224934243}
   - component: {fileID: 1224934245}
   - component: {fileID: 1224934244}
+  - component: {fileID: 1224934246}
   m_Layer: 5
   m_Name: WordSlotPanel7
   m_TagString: Untagged
@@ -2071,6 +2114,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1224934242}
   m_CullTransparentMesh: 1
+--- !u!114 &1224934246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1224934242}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 771914138bc63c2499d946193b4cc04f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  craftDeckSlotSO: {fileID: 11400000, guid: 1a8d4fdb9cff07748999e7fa6a20756b, type: 2}
 --- !u!1 &1261950864
 GameObject:
   m_ObjectHideFlags: 0
@@ -2304,6 +2360,7 @@ GameObject:
   - component: {fileID: 1373519196}
   - component: {fileID: 1373519198}
   - component: {fileID: 1373519197}
+  - component: {fileID: 1373519199}
   m_Layer: 5
   m_Name: WordSlotPanel3
   m_TagString: Untagged
@@ -2369,6 +2426,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1373519195}
   m_CullTransparentMesh: 1
+--- !u!114 &1373519199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1373519195}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 771914138bc63c2499d946193b4cc04f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  craftDeckSlotSO: {fileID: 11400000, guid: 82eb9a4be6d78574a83d7bd5a6014620, type: 2}
 --- !u!1 &1411541432
 GameObject:
   m_ObjectHideFlags: 0
@@ -2470,6 +2540,7 @@ GameObject:
   - component: {fileID: 1446072598}
   - component: {fileID: 1446072600}
   - component: {fileID: 1446072599}
+  - component: {fileID: 1446072601}
   m_Layer: 5
   m_Name: WordSlotPanel2
   m_TagString: Untagged
@@ -2535,6 +2606,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1446072597}
   m_CullTransparentMesh: 1
+--- !u!114 &1446072601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1446072597}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 771914138bc63c2499d946193b4cc04f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  craftDeckSlotSO: {fileID: 11400000, guid: 5c67203f2f0409445af8a66798c4c6c6, type: 2}
 --- !u!1 &1476071745
 GameObject:
   m_ObjectHideFlags: 0
@@ -3019,6 +3103,7 @@ GameObject:
   - component: {fileID: 1695568045}
   - component: {fileID: 1695568047}
   - component: {fileID: 1695568046}
+  - component: {fileID: 1695568048}
   m_Layer: 5
   m_Name: WordSlotPanel1
   m_TagString: Untagged
@@ -3084,6 +3169,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1695568044}
   m_CullTransparentMesh: 1
+--- !u!114 &1695568048
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1695568044}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 771914138bc63c2499d946193b4cc04f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  craftDeckSlotSO: {fileID: 11400000, guid: 868b3244c0e43f94983bb0b91c34db78, type: 2}
 --- !u!1 &1788936520
 GameObject:
   m_ObjectHideFlags: 0
@@ -3552,6 +3650,7 @@ GameObject:
   - component: {fileID: 1879499826}
   - component: {fileID: 1879499828}
   - component: {fileID: 1879499827}
+  - component: {fileID: 1879499829}
   m_Layer: 5
   m_Name: WordSlotPanel8
   m_TagString: Untagged
@@ -3617,6 +3716,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1879499825}
   m_CullTransparentMesh: 1
+--- !u!114 &1879499829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1879499825}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 771914138bc63c2499d946193b4cc04f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  craftDeckSlotSO: {fileID: 11400000, guid: af7a113e693016f4582b7674467d5e1b, type: 2}
 --- !u!1 &1880104984
 GameObject:
   m_ObjectHideFlags: 0
@@ -4195,6 +4307,7 @@ GameObject:
   - component: {fileID: 2103400188}
   - component: {fileID: 2103400190}
   - component: {fileID: 2103400189}
+  - component: {fileID: 2103400191}
   m_Layer: 5
   m_Name: WordSlotPanel6
   m_TagString: Untagged
@@ -4260,6 +4373,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2103400187}
   m_CullTransparentMesh: 1
+--- !u!114 &2103400191
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2103400187}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 771914138bc63c2499d946193b4cc04f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  craftDeckSlotSO: {fileID: 11400000, guid: 5cf0fa954986a8944bfa9e412ef2069b, type: 2}
 --- !u!1 &2109725429
 GameObject:
   m_ObjectHideFlags: 0
