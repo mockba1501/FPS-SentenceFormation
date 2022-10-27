@@ -29,7 +29,7 @@ public class Item : MonoBehaviour
         return item.itemObject;
     }
 
-    public SpriteRenderer GetItemSprite(ItemScriptableObject item)
+    public Sprite GetItemSprite(ItemScriptableObject item)
     {
         return item.itemSprite;
     }

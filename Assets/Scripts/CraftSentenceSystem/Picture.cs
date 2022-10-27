@@ -14,7 +14,7 @@ public class Picture : MonoBehaviour
         return picture.pictureName;
     }
 
-    public SpriteRenderer GetPictureSprite(PictureScriptableObject picture)
+    public Sprite GetPictureSprite(PictureScriptableObject picture)
     {
         return picture.pictureSprite;
     }

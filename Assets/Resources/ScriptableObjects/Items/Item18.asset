@@ -16,6 +16,8 @@ MonoBehaviour:
   itemName: 
   itemObject: {fileID: 0}
   itemSprite: {fileID: 0}
-  word: 
+  word: to
   isIncorrectWord: 0
+  isInInventory: 0
+  isInCraftDeck: 0
   weight: 0

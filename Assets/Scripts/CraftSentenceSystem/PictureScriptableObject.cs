@@ -7,6 +7,6 @@ public class PictureScriptableObject : ScriptableObject
 {
     public int pictureId;
     public string pictureName;
-    public SpriteRenderer pictureSprite; // 2d sprite image of the picture to be shown on picture deck of craft system.
+    public Sprite pictureSprite; // 2d sprite image of the picture to be shown on picture deck of craft system.
     public string correctSentence;
 }

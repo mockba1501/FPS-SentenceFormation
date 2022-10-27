@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: Item1
   m_EditorClassIdentifier: 
   itemId: 1
-  itemName: Test
+  itemName: 
   itemObject: {fileID: 0}
   itemSprite: {fileID: 0}
   word: The
   isIncorrectWord: 0
+  isInInventory: 0
+  isInCraftDeck: 0
   weight: 0
